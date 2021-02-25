@@ -1,6 +1,7 @@
 # rtd_test
 
 ## testing read the docs functionalities
+See [this](https://github.com/adam-p/markdown-here/blob/master/README.md) as example.
 
 [**Visit the website.**](https://aicura-medical.com/en/)<br>
 
